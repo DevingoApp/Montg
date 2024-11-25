@@ -1,5 +1,5 @@
 const products = [
-  { id: 1, name: "منتج 1", price: "50$", image: "IMG-20241125-WA0002.jpg" },
+  { id: 1, name: "منتج 1", price: "10$", image: "IMG-20241125-WA0002.jpg" },
   { id: 2, name: "منتج 2", price: "75$", image: "fareda 2.jpg" },
   { id: 3, name: "منتج 3", price: "100$", image: "fareda 3.jpg" }
 ];
