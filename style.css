@@ -47,8 +47,8 @@ nav a {
 }
 
 .product-card {
-  border: 10px solid #ddd;
-  border-radius: 50px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
   padding: 10px;
   text-align: center;
 }
