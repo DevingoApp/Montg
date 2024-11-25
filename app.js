@@ -1,7 +1,7 @@
 const products = [
   { id: 1, name: "كولاجين", price: "10$", image: "IMG-20241125-WA0002.jpg" },
   { id: 2, name: "NATURAL", price: "6.99$", image: "IMG-20241125-WA0001.jpg" },
-  { id: 3, name: "منتج 3", price: "35.56$", image: "IMG-20241125-WA0000.jpg" }
+  { id: 3, name: "كريم شعر", price: "35.56$", image: "IMG-20241125-WA0000.jpg" }
 ];
 
 window.onload = () => {
