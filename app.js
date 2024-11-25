@@ -9,14 +9,14 @@ const products = [
   { 
     id: 2, 
     name: "NATURAL", 
-    price: "6.99$", 
+    price: "$6.99", 
     image: "IMG-20241125-WA0001.jpg",
     description: ".منتج NATURAL مميز بتركيبة طبيعية تحافظ على نضارة البشرة"
   },
   { 
     id: 3, 
     name: "كريم تفتيح البشرة", 
-    price: "35.56$", 
+    price: "$35.56", 
     image: "IMG-20241125-WA0000.jpg",
     description: ".كريم تفتيح فعال يساعد على توحيد لون البشرة وإزالة البقع الداكنة"
   }
